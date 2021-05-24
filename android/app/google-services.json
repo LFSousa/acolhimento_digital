@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723376704447",
+    "firebase_url": "https://acolhimento-digital-default-rtdb.firebaseio.com",
+    "project_id": "acolhimento-digital",
+    "storage_bucket": "acolhimento-digital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723376704447:android:0e43337cbf01cd0173af0a",
+        "android_client_info": {
+          "package_name": "com.example.acolhimentoDigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723376704447-1oqhh6q8hce3ij0caene69u103v0pn9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3294Hnp9aV8Nla5RPdRU8cUYTmxuIs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723376704447-1oqhh6q8hce3ij0caene69u103v0pn9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
